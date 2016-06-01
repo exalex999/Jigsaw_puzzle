@@ -1,0 +1,37 @@
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.MainForm.resources
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.PuzzlePicturePreview.resources
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.AboutForm.resources
+C:\Users\Саша\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.ScoreForm.resources
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.AboutForm.resources
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.MainForm.resources
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.Properties.Resources.resources
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.PuzzlePicturePreview.resources
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.ScoreForm.resources
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Резервное копирование\Ноутбук\Documents\C#-Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\IT\Programming\C# projects\Проекты\Законченные решения\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+D:\Documents\IT\Programming\C# projects\Проекты\Законченные решения\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.csprojResolveAssemblyReference.cache
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.AboutForm.resources
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.MainForm.resources
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.Properties.Resources.resources
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.PuzzlePicturePreview.resources
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.ScoreForm.resources
+D:\Documents\IT\CVProjects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.csproj.GenerateResource.Cache
